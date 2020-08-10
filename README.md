@@ -1,3 +1,5 @@
+This is a simple React app where the user is able to determine if their current location is on water or land. They can do this by entering a latitude and longitude coordinate.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
